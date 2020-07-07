@@ -5,4 +5,5 @@ Hi, I'm Matt Scieszinski! I'm a 2019 graduate of Xavier High School. I'm current
   - [Github](https://github.com/ScieszinskiMatt)
   - Email: matski01@icloud.com
 ### Table of Contents
-   - [Growth Mindset](/GrowthMindset.md)
+- [Growth Mindset](/GrowthMindset.md)
+- [Discussion](/DISCUSSION.md)
