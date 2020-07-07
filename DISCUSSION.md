@@ -30,3 +30,8 @@ Growth Mindset:
 ### Link to Basic Syntax and Formatting
 - [The Basics](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 - [More Advanced Markdown](https://guides.github.com/features/mastering-markdown/)
+
+
+#### Table of Contents
+- [About Me](/README.md)
+- [Growth Mindset](/GrowthMindset.md)
