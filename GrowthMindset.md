@@ -4,3 +4,8 @@ Having a growth mindset will help me continue to improve my learning and cogniti
 1. __Observe__ what I see are obstacles and find differnt solutions to push through my progress
 2. __*Physicaly* write down__ and explain my daily tasks & objectives. Doing this will clearly state what is asked of me and what I need to finish each day
 3. __Understand__ that I may not always have the answers and that asking for help is valid and helpful to my work and my mindset. 
+
+
+
+### Table of Contents
+   - [About Me](/README.md)
