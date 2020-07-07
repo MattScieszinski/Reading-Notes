@@ -20,6 +20,7 @@ Growth Mindset:
    - The repository contains all necessary files and information for creating your website
    - Add a name, description, and choose whether your live site will be private or public (It can be changed later). Add a README.md file and License (i.e.  MIT) to complete set up
 3. Add files and edit files to transcribe your information into each of the pages you'd like for your site
+   - Use Markdown to format how you want your text and files to interact with you repository
    - When finished editing, fill in the "Commit New File" to tell others what edits you made and why you made them.
 4. In settings, scroll to themes made by Jekyll to give you site some flare and save theme
 5. Copy the GitHub Pages link and add to the repository details
@@ -27,10 +28,7 @@ Growth Mindset:
    
 * ***Protip!*** Make sure you continue to svae your files as you go. You'd hate to lose a lot of progress after some unfortunate circumstance.
 
-### Link to Basic Syntax and Formatting
-- [The Basics](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
-- [More Advanced Markdown](https://guides.github.com/features/mastering-markdown/)
-
+### [What is Markdown?](/LEARNING_MARKDOWN.md)
 
 #### Table of Contents
 - [About Me](/README.md)
