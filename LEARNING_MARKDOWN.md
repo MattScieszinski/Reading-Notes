@@ -17,14 +17,14 @@ ___OR put together___
 
 #### Here's an unordered list
 - Item 1
-  - Sub-item 1
+  * Sub-item 1
 - Item 2
 - Item 3
   
 #### Here's an ordered list
 1. Item I
 2. Item II
-   - Sub-item II
+   + Sub-item II
 3. Item III
 
 ### Headers contain between 1-6 ( # )
