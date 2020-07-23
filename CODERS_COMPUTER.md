@@ -33,12 +33,14 @@ Here are some important commands to get started with
 
 `echo` will **echo** messages back into the terminal
 
-`.` applies to hidden files. `ls -a` will list all items in a directory _including the hidden files that start with "."_
+`.` Applies to hidden files. `ls -a` Will list all items in a directory _including the hidden files that start with "."_
 
-text files end in `.txt` , executable files end in `.exe` , &  image files end in `.img .png .gif`
 
-`~` returns you back to the home directory
-`.` is your current directory &
-`..` puts you in the parent directory
+Text files end in `.txt` , executable files end in `.exe` , &  image files end in `.img .png .gif`
+
+
+`~` Returns you back to the home directory,
+`.` is your current directory, &
+`..` puts you in the parent directory.
 
 
