@@ -43,4 +43,5 @@ Text files end in `.txt` , executable files end in `.exe` , &  image files end i
 `.` is your current directory, &
 `..` puts you in the parent directory.
 
-
+### Table of Contents
+- [About Me](README.md)
