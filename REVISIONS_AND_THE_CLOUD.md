@@ -26,6 +26,7 @@ States of Files:
 `git stash` is useful for saving file changes as draft, for when you don't want to commit to changes nor delete the edits entirely. Enter `git stash apply` for when you are ready to commit to those changes.
 
 ### Table of Contents
+- [About Me/Home](README.md)
 - [Growth Mindset](/GrowthMindset.md)
 - [Section One Summary](/SectionOne.md)
 - [What is Markdown?](/LEARNING_MARKDOWN.md)
