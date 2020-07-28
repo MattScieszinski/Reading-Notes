@@ -9,3 +9,4 @@ Hi, I'm Matt Scieszinski! I'm a 2019 graduate of Xavier High School. I'm current
 - [Section One Summary](/SectionOne.md)
 - [What is Markdown?](/LEARNING_MARKDOWN.md)
 - [Coder's Computer](CODERS_COMPUTER.md)
+- [Git Clone Exercise](GIT_CLONE.md)
