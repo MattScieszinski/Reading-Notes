@@ -44,4 +44,10 @@ Text files end in `.txt` , executable files end in `.exe` , &  image files end i
 `..` puts you in the parent directory.
 
 ### Table of Contents
-- [About Me](README.md)
+- [About Me/Home](README.md)
+- [Growth Mindset](GROWTH_MINDSET.md)
+- [Section One Summary](/SectionOne.md)
+- [What is Markdown?](/LEARNING_MARKDOWN.md)
+- [Coder's Computer](CODERS_COMPUTER.md)
+- [Git Clone Exercise](GIT_CLONE.md)
+- [Revisions and the Cloud](REVISIONS_AND_THE_CLOUD.md)
