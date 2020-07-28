@@ -24,3 +24,11 @@ States of Files:
 *Tracked* files can be (Un)Modified or Staged; part of the latest snapshot **VS.** *Untracked* files are not in the staging area &. are not in the latest snapshot
 
 `git stash` is useful for saving file changes as draft, for when you don't want to commit to changes nor delete the edits entirely. Enter `git stash apply` for when you are ready to commit to those changes.
+
+### Table of Contents
+- [Growth Mindset](/GrowthMindset.md)
+- [Section One Summary](/SectionOne.md)
+- [What is Markdown?](/LEARNING_MARKDOWN.md)
+- [Coder's Computer](CODERS_COMPUTER.md)
+- [Git Clone Exercise](GIT_CLONE.md)
+- [Revisions and the Cloud](REVISIONS_AND_THE_CLOUD.md)
