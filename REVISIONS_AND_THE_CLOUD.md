@@ -27,7 +27,7 @@ States of Files:
 
 ### Table of Contents
 - [About Me/Home](README.md)
-- [Growth Mindset](/GrowthMindset.md)
+- [Growth Mindset](/GROWTH_MINDSET.md)
 - [Section One Summary](/SectionOne.md)
 - [What is Markdown?](/LEARNING_MARKDOWN.md)
 - [Coder's Computer](CODERS_COMPUTER.md)
