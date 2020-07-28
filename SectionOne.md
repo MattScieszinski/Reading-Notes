@@ -30,6 +30,11 @@ Growth Mindset:
 
 ### [What is Markdown?](/LEARNING_MARKDOWN.md)
 
-#### Table of Contents
-- [About Me](/README.md)
-- [Growth Mindset](/GrowthMindset.md)
+### Table of Contents
+- [About Me/Home](README.md)
+- [Growth Mindset](GROWTH_MINDSET.md)
+- [Section One Summary](/SectionOne.md)
+- [What is Markdown?](/LEARNING_MARKDOWN.md)
+- [Coder's Computer](CODERS_COMPUTER.md)
+- [Git Clone Exercise](GIT_CLONE.md)
+- [Revisions and the Cloud](REVISIONS_AND_THE_CLOUD.md)
