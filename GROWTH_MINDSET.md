@@ -5,7 +5,11 @@ Having a growth mindset will help me continue to improve my learning and cogniti
  - [x] __*Physicaly* write down__ and explain my daily tasks & objectives. Doing this will clearly state what is asked of me and what I need to finish each day
  - [x] __Understand__ that I may not always have the answers and that asking for help is valid and helpful to my work and my mindset. 
 
-
-
 ### Table of Contents
-   - [About Me](/README.md)
+- [About Me/Home](README.md)
+- [Growth Mindset](GROWTH_MINDSET.md)
+- [Section One Summary](/SectionOne.md)
+- [What is Markdown?](/LEARNING_MARKDOWN.md)
+- [Coder's Computer](CODERS_COMPUTER.md)
+- [Git Clone Exercise](GIT_CLONE.md)
+- [Revisions and the Cloud](REVISIONS_AND_THE_CLOUD.md)
