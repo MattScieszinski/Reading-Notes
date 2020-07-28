@@ -1,2 +1,0 @@
-# Revisions and the Cloud
-With Git, I am now able to markup, create, and code on my CPU machine with text editors instead of logging into GitHub. Now, all my creations and files are cloned and connected to the cloud. 
