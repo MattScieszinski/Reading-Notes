@@ -26,7 +26,7 @@ Growth Mindset:
 5. Copy the GitHub Pages link and add to the repository details
    - Hit "Edit" or the gear above the about section on the main repository code page. Paste the link into the website section
    
-* ***Protip!*** Make sure you continue to svae your files as you go. You'd hate to lose a lot of progress after some unfortunate circumstance.
+* ***Protip!*** Make sure you continue to save your files as you go. You'd hate to lose a lot of progress after some unfortunate circumstance.
 
 ### [What is Markdown?](/LEARNING_MARKDOWN.md)
 
