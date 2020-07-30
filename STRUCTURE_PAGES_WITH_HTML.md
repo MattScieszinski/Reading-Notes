@@ -30,3 +30,5 @@ HyperText Markup Language is used to markup, structure and format websites in .h
 - [What is Markdown?](/LEARNING_MARKDOWN.md)
 - [Coder's Computer](CODERS_COMPUTER.md)
 - [Git Clone Exercise](GIT_CLONE.md) 
+- [Revisions and the Cloud](REVISIONS_AND_THE_CLOUD.md)
+- [Structure Pages With HTML](STRUCTURE_PAGES_WITH_HTML.md)
