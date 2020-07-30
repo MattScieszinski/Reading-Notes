@@ -36,3 +36,12 @@ ___OR put together___
 - [Basic Markdown](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 - [Markdown Syntax Refernce](https://commonmark.org/help/)
+
+### Table of Contents
+- [About Me/Home](README.md)
+- [Growth Mindset](GROWTH_MINDSET.md)
+- [Section One Summary](/SectionOne.md)
+- [What is Markdown?](/LEARNING_MARKDOWN.md)
+- [Coder's Computer](CODERS_COMPUTER.md)
+- [Git Clone Exercise](GIT_CLONE.md)
+- [Revisions and the Cloud](REVISIONS_AND_THE_CLOUD.md)

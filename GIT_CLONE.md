@@ -9,4 +9,10 @@ Now that the terminal is becoming more and more familiar to me, cloning my repo 
 `git push` does what it says. After inserting `git status` into the terminal, a message lets me know that I am ready to save and publish my updated file back into the repository live and ready to be executed.
 
 ### Table of Contents
-- [About Me](README.md) 
+- [About Me/Home](README.md)
+- [Growth Mindset](GROWTH_MINDSET.md)
+- [Section One Summary](/SectionOne.md)
+- [What is Markdown?](/LEARNING_MARKDOWN.md)
+- [Coder's Computer](CODERS_COMPUTER.md)
+- [Git Clone Exercise](GIT_CLONE.md)
+- [Revisions and the Cloud](REVISIONS_AND_THE_CLOUD.md)
