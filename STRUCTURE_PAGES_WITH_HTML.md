@@ -8,12 +8,15 @@ HyperText Markup Language is used to markup, structure and format websites in .h
 - When blueprinting how web pages should look, use wireframes and the visual heirarchy on how to optmize information being given to the customer so that they both find the info they need easily and spend the most amount of time using your website
     + *Wireframes* : Borders and boxes that are use to structure the bulk of your website to create a pleasing and optimal layout. Each section should only contain the nessecary information (e.g. Navigation, header, article, image).
     + *Visual Hierarchy* : Things like colors, placement, size & style help use precise visuals to guide visitors to what they are looking for on your website and communicate the information efficiently.
+
 ## Chapter 1: Structure
 - *Tags*: These your starting and ending point of code. Since they come in pairs, all information needs to be typed inbetween your tags so they can be executed and read on your website. EX: `<p>I am going to lunch at tweleve.</p>` 
 - *Element*: these are the specific character(s) insied angled brackets - <> - that tells us what our information will be catagorized as. EX: `<p>` the letter " p " tells us that the information we are coding will appear as a paragraph body in our website.
 - *Attributes*: In the opening tag, we can add extra information to our code for clarification and how we want our code to be read precisely We use **Names** and **Values**, separated with an =, to show what our tag is informing us and how that extra information will be applied. EX: `<p lang="fr"> Paragraphe en Française>` is telling us that our paragraph body will be in french and identified as french in our website.
+
 ## Chapter 17: HTML5 Layout
 - HTML5 and CSS3 are the latest versions of the languages computers and coders are using to code. Specifically with HTML, tags have been simplified for faster and easier use. With Javascript HTML5 shim (or sham), HTML5 can be read and utilized with programs that use older verisons, like HTML4 or XHTML.
+
 ## Chapter 8: Extra Markup
 - DOCUTYPE: Describes the vervion of HTML being used
 - `<!---->`: This allows us to write comments within the code
@@ -26,5 +29,4 @@ HyperText Markup Language is used to markup, structure and format websites in .h
 - [Section One Summary](/SectionOne.md)
 - [What is Markdown?](/LEARNING_MARKDOWN.md)
 - [Coder's Computer](CODERS_COMPUTER.md)
-- [Git Clone Exercise](GIT_CLONE.md)
-- [Structure Pages With HTML](STRUCTURE_PAGES_WITH_HTML.md)
+- [Git Clone Exercise](GIT_CLONE.md) 
