@@ -12,3 +12,4 @@ Hi, I'm Matt Scieszinski! I'm a 2019 graduate of Xavier High School. I'm current
 - [Coder's Computer](CODERS_COMPUTER.md)
 - [Git Clone Exercise](GIT_CLONE.md)
 - [Revisions and the Cloud](REVISIONS_AND_THE_CLOUD.md)
+- [Structure Pages With HTML](STRUCTURE_PAGES_WITH_HTML.md)
