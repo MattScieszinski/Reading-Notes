@@ -34,3 +34,8 @@ States of Files:
 - [Git Clone Exercise](GIT_CLONE.md)
 - [Revisions and the Cloud](REVISIONS_AND_THE_CLOUD.md)
 - [Structure Pages With HTML](STRUCTURE_PAGES_WITH_HTML.md)
+- [Design Webpages With CSS](DESIGN_WEBPAGES_WITH_CSS.md)
+- [Dynamic Webpages With JavaScript](DYNAMIC_WEBPAGES_WITH_JAVASCRIPT.md)
+- [Computer Architecture and Logic](COMPUTER_ARCHITECTURE_AND_LOGIC.md)
+- [Programming With JavaScript](PROGRAMMING_WITH_JAVASCRIPT.md)
+- [Operators and Loops](OPERATORS_AND_LOOPS.md)

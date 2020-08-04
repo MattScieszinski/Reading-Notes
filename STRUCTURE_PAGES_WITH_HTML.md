@@ -25,10 +25,16 @@ HyperText Markup Language is used to markup, structure and format websites in .h
 - `<meta>` is a tag included in the `<head>` section. You'll find information about website description, cache info., and search engine information here
 
 ### Table of Contents
-- [Growth Mindset](/GrowthMindset.md)
+- [About Me/Home](README.md)
+- [Growth Mindset](/GROWTH_MINDSET.md)
 - [Section One Summary](/SectionOne.md)
 - [What is Markdown?](/LEARNING_MARKDOWN.md)
 - [Coder's Computer](CODERS_COMPUTER.md)
-- [Git Clone Exercise](GIT_CLONE.md) 
+- [Git Clone Exercise](GIT_CLONE.md)
 - [Revisions and the Cloud](REVISIONS_AND_THE_CLOUD.md)
 - [Structure Pages With HTML](STRUCTURE_PAGES_WITH_HTML.md)
+- [Design Webpages With CSS](DESIGN_WEBPAGES_WITH_CSS.md)
+- [Dynamic Webpages With JavaScript](DYNAMIC_WEBPAGES_WITH_JAVASCRIPT.md)
+- [Computer Architecture and Logic](COMPUTER_ARCHITECTURE_AND_LOGIC.md)
+- [Programming With JavaScript](PROGRAMMING_WITH_JAVASCRIPT.md)
+- [Operators and Loops](OPERATORS_AND_LOOPS.md)
