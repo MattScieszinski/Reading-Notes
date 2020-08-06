@@ -3,9 +3,13 @@ After having the structure of a webpage set and ready, *Cascading Style Sheets* 
 
 ## Ch. 10: Introducing CSS
 `body{ 
+
        font-family: Times New Roman, serif; 
+
        color: maroon; 
+
        border: 25px solid black;
+       
     }`
 
 +  This is what the basic CSS code block will look like. CSS can be written and applied **externally** in a seperate file linked in the `<head>` element written in the `<style>` element. (recommended, especially for different pages and multiple elements), or it can be inserted **internally** by writing code in the same place. (not recommended, but useful for simple and short web pages)
